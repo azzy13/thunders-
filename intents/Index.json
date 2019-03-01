@@ -1,0 +1,28 @@
+{
+  "id": "5c0f4f33-abd1-4400-96ff-8bcaa538ac88",
+  "name": "Index",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is the basic skeleton- \n1) Libraries of C++ \n2) Operators \n3) Data Types \n4) Loops \n5) In built commands/functions \n6) Features of OOP \n7) Classes and Objects \n8) Files and Streams \n9) Dynamic Memory Allocation \n10) Visit https://www.tutorialspoint.com/ for more info"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551419533,
+  "fallbackIntent": false,
+  "events": []
+}

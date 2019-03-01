@@ -1,0 +1,28 @@
+{
+  "id": "019af090-81e6-4dcb-91e9-978fd8777d81",
+  "name": "Libraries of C++",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hey, here it is! :)\n\n\nThe C++ Standard Library can be categorized into two parts −\n\n    1) The Standard Function Library \n\n    2) The Object Oriented Class Library \n\n\nThe standard function library is divided into the following categories −\n\n    I/O,\n    String and character handling,\n    Mathematical,\n    Dynamic allocation\n\nFor more info - https://www.tutorialspoint.com/cplusplus/cpp_standard_library.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551419294,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0a840c9c-d852-43f7-9686-d3ce40b3ebba",
+  "name": "Operators Overloading",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Overloaded operators are functions with special names: the keyword \"operator\" followed by the symbol for the operator being defined.Like any other function, an overloaded operator has a return type and a parameter list....!\n\nfor more info : https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551428829,
+  "fallbackIntent": false,
+  "events": []
+}

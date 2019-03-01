@@ -1,0 +1,28 @@
+{
+  "id": "1c2d8148-60d3-42bd-b091-36128fd157a0",
+  "name": "explain  me Relational Operators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Relational Operators are the Operators which allow you to check the relation of varables ...!for ex :\u003d\u003d,!\u003d,\u003c,\u003e,\u003c\u003d,....etc"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551426435,
+  "fallbackIntent": false,
+  "events": []
+}

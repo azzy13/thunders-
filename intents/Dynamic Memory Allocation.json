@@ -1,0 +1,28 @@
+{
+  "id": "6c74e344-793a-4837-9c93-22177916135c",
+  "name": "Dynamic Memory Allocation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "becoming a good C++ programmer. Memory in your C++ program is divided into two parts ...The stack and The heap ......you can allocate memory at run time within the heap for the variable of a given type using a special operator in C++  that operator is NEW and DELETE operator ..!\n\nfor more info: https://www.tutorialspoint.com/cplusplus/cpp_dynamic_memory.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551425704,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "df7951a2-480c-4a2d-bc98-5b5f0c361d2c",
+  "name": "Files and Streams",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This requires another standard C++ library called fstream,\nofstream\n\nThis data type represents the output file stream and is used to create files and to write information to files.\n\nifstream\n\nThis data type represents the input file stream and is used to read information from files.\n\nfstream\n\nThis data type represents the file stream generally, and has the capabilities of both ofstream and ifstream which means it can create files, write information to files, and read information from files."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551421847,
+  "fallbackIntent": false,
+  "events": []
+}

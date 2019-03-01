@@ -1,0 +1,28 @@
+{
+  "id": "fb7267bd-ea69-42ce-b922-8987eb9ca713",
+  "name": "Logical Operators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Logical Operators are the operators that help you to give  a Logical relation with the variables ...we have  three such Logical Operators they are ...\u0026\u0026,(AND),||(OR),!(NOT)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551426690,
+  "fallbackIntent": false,
+  "events": []
+}

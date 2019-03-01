@@ -1,0 +1,28 @@
+{
+  "id": "56360d15-f479-4bc5-acab-c32a8b531268",
+  "name": "Polymorphism",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The word polymorphism means having many forms. Typically, polymorphism occurs when there\n is a hierarchy of classes and they are related by inheritance.\nC++ polymorphism means that a call to a member function will cause a different function to be executed depending on the type of object that invokes the function...!\nfor more info : https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551427522,
+  "fallbackIntent": false,
+  "events": []
+}

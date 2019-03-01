@@ -1,0 +1,28 @@
+{
+  "id": "c2246e69-b532-4b35-9cd2-57f20ac25fd9",
+  "name": "Inheritance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "C++ Multiple, Multilevel and Hierarchical Inheritance. ... Inheritance is one of the core feature of an object-oriented programming language. It allows software developers to derive a new class from the existing class. The derived class inherits the features of the base class (existing class). \n\nfor more info :  https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551427193,
+  "fallbackIntent": false,
+  "events": []
+}

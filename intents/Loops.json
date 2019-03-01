@@ -1,0 +1,28 @@
+{
+  "id": "f06b9b9f-289f-4db0-a19f-313da82217f4",
+  "name": "Loops",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "while loop\n\nRepeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body.\n\nfor loop\n\nExecute a sequence of statements multiple times and abbreviates the code that manages the loop variable.\n\ndo...while loop\n\nLike a ‘while’ statement, except that it tests the condition at the end of the loop body.\n\nFor more info visit - https://www.tutorialspoint.com/cplusplus/cpp_loop_types.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551420072,
+  "fallbackIntent": false,
+  "events": []
+}

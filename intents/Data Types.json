@@ -1,0 +1,28 @@
+{
+  "id": "0e932b3d-71a9-492a-967e-f7b102457a1c",
+  "name": "Data Types",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are some primitive data types\n\nBoolean: \tbool\nCharacter: \tchar\nInteger: \tint\nFloating point: \tfloat\nDouble floating point: \tdouble\nValueless: \tvoid\n\nTo know more visit - https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551419780,
+  "fallbackIntent": false,
+  "events": []
+}

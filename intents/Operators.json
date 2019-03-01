@@ -1,0 +1,28 @@
+{
+  "id": "68194c95-7bc0-4545-908a-f6f568c981f6",
+  "name": "Operators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are the operators-\n\nAn operator is a symbol that tells the compiler to perform specific mathematical or logical manipulations. C++ is rich in built-in operators and provide the following types of operators −\n\n    Arithmetic Operators\n    Relational Operators\n    Logical Operators\n    Bitwise Operators\n    Assignment Operators\n    Misc Operators\n\nFor more info - https://www.tutorialspoint.com/cplusplus/cpp_operators.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551419512,
+  "fallbackIntent": false,
+  "events": []
+}

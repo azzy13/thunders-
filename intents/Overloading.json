@@ -1,0 +1,28 @@
+{
+  "id": "918d3774-d7ce-49dd-a423-5e35e8f3565f",
+  "name": "Overloading",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "C++ allows you to specify more than one definition for a function name or an operator in the same scope, which is called function overloading and operator overloading respectively......! \n\nfor more info : https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551427819,
+  "fallbackIntent": false,
+  "events": []
+}

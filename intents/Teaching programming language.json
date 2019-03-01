@@ -1,0 +1,38 @@
+{
+  "id": "1b35464c-2f5c-424a-b717-c31fc26f6a14",
+  "name": "Teaching programming language",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure thing, let\u0027s get started.",
+            "Let\u0027s Begin",
+            "Happy learning",
+            "Let\u0027s cover up some basics."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551414705,
+  "fallbackIntent": false,
+  "events": []
+}

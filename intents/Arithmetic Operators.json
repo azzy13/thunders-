@@ -1,0 +1,28 @@
+{
+  "id": "5c3d131e-524a-49b6-95b4-0df9aaf8078a",
+  "name": "Arithmetic Operators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Arithmetic Operators are the Operators that can make u to use of MATH operations ...! eg , +,-,%...!\nwe can make use of Increment and Decrement Operators..!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551426186,
+  "fallbackIntent": false,
+  "events": []
+}

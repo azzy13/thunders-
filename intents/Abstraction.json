@@ -1,0 +1,31 @@
+{
+  "id": "78923c81-e50c-4956-8f1c-bdb84d183538",
+  "name": "Abstraction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Data abstraction refers to providing only essential information to the outside world and hiding their background details, i.e., to represent the needed information in program without presenting the details....!\nData abstraction is a programming (and design) technique that relies on the separation of interface and implementation.\n\nfor more info: https://www.tutorialspoint.com/cplusplus/cpp_data_abstraction.htm",
+            "Data abstraction is a programming (and design) technique that relies on the separation of interface and implementation.\n\nfor more info : https://www.tutorialspoint.com/cplusplus/cpp_data_abstraction.htm"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551428151,
+  "fallbackIntent": false,
+  "events": []
+}

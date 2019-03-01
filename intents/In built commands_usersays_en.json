@@ -1,0 +1,86 @@
+[
+  {
+    "id": "60f7102d-cc2c-41ee-b22a-450f166b04c7",
+    "data": [
+      {
+        "text": "Teach me functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420536
+  },
+  {
+    "id": "dcf4a76c-b0c9-4b07-b48b-6a2ed41aa8dd",
+    "data": [
+      {
+        "text": "Teach me commands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420536
+  },
+  {
+    "id": "3a071637-71e6-4c90-b5cb-f7a3b53a1695",
+    "data": [
+      {
+        "text": "functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420536
+  },
+  {
+    "id": "01355499-16c2-48f2-b487-18974ae04140",
+    "data": [
+      {
+        "text": "commands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420536
+  },
+  {
+    "id": "87fad234-490e-482b-9013-97379541e59b",
+    "data": [
+      {
+        "text": "In built commands/functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420536
+  },
+  {
+    "id": "6f2b2b2f-3bde-4bce-ac49-dfd6cd347885",
+    "data": [
+      {
+        "text": "In built functions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420536
+  },
+  {
+    "id": "d2f04871-5e7a-41be-9367-32a7f4be4ce5",
+    "data": [
+      {
+        "text": "In built commands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551420536
+  }
+]

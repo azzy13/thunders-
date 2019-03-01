@@ -1,0 +1,28 @@
+{
+  "id": "38e4fac1-dda0-4452-90cb-1b3c82be2bb7",
+  "name": "Bitwise Operators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Takes two numbers as operands and does AND on every bit of two numbers. The result of AND is 1 only if both bits are 1. | (bitwise OR) Takes two numbers as operands and does OR on every bit of two numbers....!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551426847,
+  "fallbackIntent": false,
+  "events": []
+}

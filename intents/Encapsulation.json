@@ -1,0 +1,28 @@
+{
+  "id": "effaf4ba-a527-479e-b330-8b9519ac61fc",
+  "name": "Encapsulation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Data encapsulation is a mechanism of bundling the data, and the functions that use them and data abstraction is a mechanism of exposing only the interfaces and hiding the implementation details from the user.....!!\n\nfor more info:https://www.tutorialspoint.com/cplusplus/cpp_data_encapsulation.htm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551428384,
+  "fallbackIntent": false,
+  "events": []
+}

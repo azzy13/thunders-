@@ -1,0 +1,28 @@
+{
+  "id": "3e850302-8885-4a64-aa27-5d0b5834bbf3",
+  "name": "In built commands",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "function that are already define in header file are called inbulit functions \nHere are some in built commands/functions\nsqrt()\nexit(0)\npow()\ncin\u003e\u003e\ncout\u003c\u003c\ncalloc()\nwhich is defined in iostream ..!\n\nFor More info :https://www.programiz.com/cpp-programming/library-function"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551420591,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "531dec9d-7948-4ca5-91be-d934cde4301d",
+  "name": "Class and Objects",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When you define a class, you define a blueprint for a data type. This doesn\u0027t actually define any data, but it does define what the class name means, that is, what an object of the class will consist of and what operations can be performed on such an object.Class is Collection of Objects"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551421386,
+  "fallbackIntent": false,
+  "events": []
+}
